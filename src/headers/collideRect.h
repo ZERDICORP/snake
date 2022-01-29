@@ -1,0 +1,1 @@
+bool bCollideRect(int* iRect1, int* iRect2);
