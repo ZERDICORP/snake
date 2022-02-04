@@ -1,1 +1,1 @@
-# First snake game (rip 2018)
+### First snake game (rip 2018)
