@@ -1,5 +1,5 @@
 # First snake game (rip 2018)
-![image](https://user-images.githubusercontent.com/56264511/199721455-11df39e1-3cf4-4682-aa83-18b7658a8e4b.png)
+![image](https://user-images.githubusercontent.com/56264511/199722560-7460baff-4c8b-4f9e-8a95-5592d8aaaec1.png)
 
 ## Launch guide
 
